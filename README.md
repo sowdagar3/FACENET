@@ -3,7 +3,7 @@
 This repository contains code for face detection, and retrieval of the most similar face from a database using FaceNet embeddings and Support Vector Machines (SVM) and k-Nearest Neighbors (KNN).  
 
 #### Face detection result
-![](Face_detection_test_input.jpg)
+![Input](Face_detection_test_input.jpg)
 ![](Face_detection_result.png)
 
 ### Most similar face retrieval results
