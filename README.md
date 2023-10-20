@@ -9,6 +9,15 @@ This repository contains code for face detection, and retrieval of the most simi
 ![](Extraction_result1.png)   
 ![](Extraction_result2.png)  
 
+### Applications of repo work
+1.Detecting presence of person and counting number of persons in a frame.  
+
+2.Multiclass classification of persons dataset.  
+
+3.Helping a cameraman to extract the photos of a target person from his database.  
+
+4.Fun application is checking checking which celebrity resembles us.
+
 Dataset:[Bollywood celebrity dataset](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces)  
 
 
