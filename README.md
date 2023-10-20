@@ -10,7 +10,7 @@ This repository contains code for face detection, and retrieval of the most simi
 ![](Extraction_result2.png)  
 
 ### Applications of repo work
-1.Detecting the presence of individuals and counting the number of peoplin a frame.
+1.Detecting the presence of individuals and counting the number of people in a frame.
 
 2.Performing multiclass classification on a dataset of individuals.
 
