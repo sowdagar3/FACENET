@@ -2,13 +2,12 @@
 
 This repository contains code for face detection, and retrieval of the most similar face from a database using FaceNet embeddings and Support Vector Machines (SVM) and k-Nearest Neighbors (KNN).  
 
-### The result of Face detection
-![](Face_detection_result.png) 
-### The results of similar face retrieval 
+#### Face detection result
+![](Face_detection_result.png)
+
+### Most similar face retrieval results
 ![](Extraction_result.png) 
-
 ![](Extraction_result1.png)   
-
 ![](Extraction_result2.png)  
 
 Dataset:[Bollywood celebrity dataset](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces)  
