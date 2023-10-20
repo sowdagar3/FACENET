@@ -14,7 +14,7 @@ This repository contains code for face detection, and retrieval of the most simi
 
 2.Performing multiclass classification on a dataset of individuals.
 
-3.Assisting a cameraperson in extracting photos of a specific person from their database.
+3.Assisting a cameraman in extracting photos of a specific person from their database.
 
 4.A fun application that checks which celebrity bears a resemblance to us.
 
