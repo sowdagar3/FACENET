@@ -6,7 +6,9 @@ This repository contains code for face detection, and retrieval of the most simi
 ![](Face_detection_result.png) 
 ### The results of similar face retrieval 
 ![](Extraction_result.png) 
+
 ![](Extraction_result1.png)   
+
 ![](Extraction_result2.png)  
 
 Dataset:[Bollywood celebrity dataset](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces)  
