@@ -20,6 +20,4 @@ This repository contains code for face detection, and retrieval of the most simi
 
 Dataset:[Bollywood celebrity dataset](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces)  
 
-
-
 download the faces and embedding array from [here](https://drive.google.com/drive/folders/1jDw5lui7ru3s4Xv9CRFkZfHFdm3j6Jgm?usp=sharing)
